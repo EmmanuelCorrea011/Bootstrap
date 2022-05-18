@@ -1,0 +1,22 @@
+
+.fondo {
+    background-image: url(./imagenes/fondo.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-style: normal;
+    color: aliceblue;
+}
+
+.parrafos {
+    margin-top: 10rem;
+}
+.titulos {
+    text-align: center;
+    margin-bottom: 0.5vw;
+}
+
+.columnas {
+    margin: 5vw;
+    text-align: justify;
+}
+
